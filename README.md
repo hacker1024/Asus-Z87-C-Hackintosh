@@ -22,6 +22,8 @@ An OpenCore configuration for my custom build with an Asus Z87-C motherboard.
 
 ## Usage
 
+### Instalation
+
 1. Copy the contents of this repo to your EFI partition. Make sure to recursively clone to include submodules!
 2. The `config.plist` is missing `PlatformInfo` details. Follow the [Dortania guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html#platforminfo) to generate serials, using the `iMac15,1` model.
 3. Update any kexts that you want to update.
@@ -31,7 +33,7 @@ An OpenCore configuration for my custom build with an Asus Z87-C motherboard.
 7. Set the UEFI settings described below.
 8. Power management is configured for maximum performance. This may be changed by swapping out the `CPUFriendDataProvider` kext.
 
-## Required UEFI settings
+### Required UEFI settings
 
 - Enable Internal Graphics: Yes (required for things like hardware video decoding)
 - Pre-allocated IGPU memory (DVMT-Prealloc): 64MB
