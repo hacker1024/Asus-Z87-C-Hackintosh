@@ -61,3 +61,13 @@ A copy of rEFInd is included in this reporitory, with the following configuratio
 
 Feel free to configure rEFInd to your liking.  
 If you use rEFInd, make sure to initialize this repository's submodules (or clone it recursively).
+
+### Hardware quirks
+
+- The Atheros AR9227 PCI Wi-Fi card can cause extreme instability in multi-core systems!
+  I think this may be related to the inclusion or exclusion of a PCI-to-PCI bridge.
+  
+  If your system freezes to the point where even the reset button doesn't work, this card is the likely culprit.
+  Remove the kext, or disconnect the card entirely as this issue also effects Windows (though Linux seems to be fine).
+
+  This card also has a unique PCI device ID; the included High Sierra Atheros plugin is modified to use it.
