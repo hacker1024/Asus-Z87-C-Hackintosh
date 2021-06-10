@@ -1,4 +1,4 @@
-# Z87-C Hackintosh
+# Asus Z87-C Hackintosh
 
 An OpenCore configuration for my custom build with an Asus Z87-C motherboard.
 
