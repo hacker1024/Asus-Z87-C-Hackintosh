@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>57352</integer>
+	<key>DisplayProductName</key>
+	<string>DELL 2005FPW</string>
+	<key>DisplayVendorID</key>
+	<integer>4268</integer>
+	<key>IODisplayEDID</key>
+	<data>
+	AP///////wAQrAjgTFozMBQPAQNuKxtg6gGVo1dMnCUSUFSlSwCBgHFPAQEBAQEBAQEB
+	AQEBITmQMGIaJ0BosDYAsg4RAAAcAAAA/wBSNjE2NjU1QjAzWkwKAAAA/QA4Sx5TDwAK
+	ICAgICAgAAAA/ABERUxMIDIwMDVGUFcKAEQ=
+	</data>
+</dict>
+</plist>

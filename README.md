@@ -11,6 +11,7 @@ An OpenCore configuration for my custom build with an Asus Z87-C motherboard.
 | iGPU                        | Intel® HD Graphics 4600                                      |
 | dGPU #1                     | NVIDIA GeForce GT 730 (GK208B)                               |
 | dGPU #2 (disabled in macOS) | NVIDIA GeForce GTX 660 Ti (GK104)                            |
+| Displays                    | iGPU: Dell U2312HM (DVI); dGPU #1: Dell S2421HS (HDMI), Dell U2410 (DVI), Dell 2005FPW (VGA) |
 | RAM                         | 2x 8GB DDR3 1600MHz Kingston KHX1600C10D3L/8GX<br />2x 2GB DDR3 1333MHz Kingston KP223C-ELD |
 | Ethernet                    | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller |
 | Audio                       | Realtek ALC892                                               |
@@ -32,6 +33,7 @@ An OpenCore configuration for my custom build with an Asus Z87-C motherboard.
 6. Add `\EFI\OC\OpenCore.efi` (or, alternatively, `\EFI\refind\refind_x64.efi`, if you want to [dual boot](#dual-booting)) as a UEFI boot option with a tool like `bcfg` in an EFI shell or `efibootmgr` on Linux.
 7. Set the UEFI settings described below.
 8. Power management is configured for maximum performance. This may be changed by swapping out the `CPUFriendDataProvider` kext.
+9. For better color quality, consult the [EDID documentation](EDIDs).
 
 ### Required UEFI settings
 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>61461</integer>
+	<key>DisplayProductName</key>
+	<string>DELL U2410</string>
+	<key>DisplayVendorID</key>
+	<integer>4268</integer>
+	<key>IODisplayEDID</key>
+	<data>
+	AP///////wAQrBXwTDJZQTMWAQOANCBg7h7Frk80sSYOUFSlSwCBgKlA0QBxTwEBAQEB
+	AQEBKDyAoHCwI0AwIDYABkQhAAAaAAAA/wBIMzkwTTJDSUFZMkwKAAAA/ABERUxMIFUy
+	NDEwCiAgAAAA/QA4TB5REQAKICAgICAgAB4=
+	</data>
+</dict>
+</plist>

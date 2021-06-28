@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>16498</integer>
+	<key>DisplayProductName</key>
+	<string>DELL U2312HM</string>
+	<key>DisplayVendorID</key>
+	<integer>4268</integer>
+	<key>IODisplayEDID</key>
+	<data>
+	AP///////wAQrHJATDUxNxAWAQOAMx1g6m6lo1RPnyYRUFSlSwBxT4GA0cABAQEBAQEB
+	AQEBAjqAGHE4LUBYLEUA/h8RAAAeAAAA/wBGWDAxUjI0SDcxNUwKAAAA/ABERUxMIFUy
+	MzEySE0KAAAA/QA4TB5TEQAKICAgICAgAJY=
+	</data>
+</dict>
+</plist>
