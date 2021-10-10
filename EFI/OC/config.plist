@@ -689,7 +689,7 @@
 				<key>boot-args</key>
 				<string>shikigva=40</string>
 				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
+				<data>7w8AAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-AU:0</string>
 				<key>run-efi-updater</key>
